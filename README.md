@@ -55,6 +55,7 @@ Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hel
 </tr>
 </table>
 
+This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
 ## 📖 Table of Contents
 
